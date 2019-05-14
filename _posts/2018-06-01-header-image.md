@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: 测试用的第一篇日志
 tags: TeXt
 article_header:
   type: cover
