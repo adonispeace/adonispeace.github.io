@@ -1,19 +1,34 @@
 header:
   - titles:
-      en:       Archive
-      zh:       日志记录
-      zh-Hans:  日志记录
-      zh-Hant:  歸檔
-    url:        /archive.html
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+    url: /archive.html
+
   - titles:
-      en:       About
-      zh:       关于他
-      zh-Hans:  关于他
-      zh-Hant:  關於
-    url:        /about.html
-    titles:
-      en:      Github
-      zh:      Github
-      zh-Hans: Github
-      zh-Hant: Github
-    url：     https://github.com/
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+    url: /about.html

@@ -1,10 +1,20 @@
 ---
 layout: article
 titles:
-  en: About
-  zh: 关于
-  zh-Hans: 关于
-  zh-Hant: 關於
+  en      : &EN       About
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  关于
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : &ZH_HANT  關於
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : &KO       소개
+  ko-KR   : *KO
 key: page-about
 ---
 
@@ -22,10 +32,10 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 - Semantic HTML
 - Skins
 - Highlight Theme
-- Multi-language support
+- Internationalization
 - Search
 - Table of contents
-- Authors (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
+- Authors
 - Additional styles (alert, tag, image, icon, button, grid, etc)
 - Extensions (audios, videos, slides, demos)
 - Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
