@@ -7,6 +7,6 @@ article_header:
     src: /screenshot.jpg
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+这是第一篇测试的日志,在这里[Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) 可以看到更多的内容.
 
 <!--more-->
