@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 93edba9b44b1c0ed5227 # GitHub Application Client ID
     clientSecret: 408af8b11be092e6f1a09c12f35da159f65e52f2 # GitHub Application Client Secret
-    repository  : adonispeace/adonispeace.github.io # GitHub repo
+    repository  : adonispeace.github.io # GitHub repo
     owner       : adonispeace # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
