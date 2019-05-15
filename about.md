@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Something to say-About my life,what I thought and so on（ Unscheduled update）
+title: this is a place where I wanna talk Something-About my life,something I read and so on（ Unscheduled update）
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
@@ -26,6 +26,7 @@ article_header:
 
 
     这是一个记录个人生活、所做的实验感悟、想法等的内容。
+	
 	欢迎访问他的github主页：https://github.com/adonispeace
 	
 	
