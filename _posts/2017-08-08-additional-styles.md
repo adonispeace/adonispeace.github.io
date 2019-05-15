@@ -109,3 +109,16 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
 | ![Tomorrow](https://raw.githubusercontent.com/adonispeace/adonispeace.github.io/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/adonispeace/adonispeace.github.io/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/adonispeace/adonispeace.github.io/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/adonispeace/adonispeace.github.io/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/adonispeace/adonispeace.github.io/master/screenshots/highlight_tomorrow-night-bright.png) |
+## Extra
+
+| Name | Description |
+| ---- | ---- |
+| Spacing | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/spacing) |
+| Grid | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/grid) |
+| Icons | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/icons) |
+| Image | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/image) |
+| Button | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/button) |
+| Item | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/item) |
+| Card | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/card) |
+| Hero | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/hero) |
+| Swiper | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/swiper) |
