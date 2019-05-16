@@ -1,5 +1,5 @@
 ---
-title: 随便记一下
+title: 随便记一下！
 key: 20190516
 tags: Daily
 ---
